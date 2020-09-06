@@ -402,4 +402,4 @@ while True:
 
 # Finalização do projeto
 #Está para chegar a versão 2.0 com muito mais rescursos além destes
-# Programadores responsáveis:  >>> DAVID LINS  E  LUCAS <<<
+# Programadores responsáveis:  >>> DAVID LINS  E  LUCAS SILVA <<<
